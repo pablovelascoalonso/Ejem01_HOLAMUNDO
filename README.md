@@ -25,6 +25,9 @@ Hemos colaborado en el proyecto:
 | ----------- | ----------- |
 | 1.0 | Creación del ReadMe |
 
-Here's a sentence with a footnote. [^1]
 
-[^1]: This is the footnote.
+Esta es una frase con un footnote. [^1]
+
+[^1]: Este es el footnote.
+
+### My Great Heading {#custom-id}
