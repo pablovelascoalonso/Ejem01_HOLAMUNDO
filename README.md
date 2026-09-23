@@ -1,3 +1,3 @@
 # Ejem01_HOLAMUNDO
 Primer proyecto realizado en github
-EStamos en el centro Gregorio Fernandez
+Estamos en el centro Gregorio Fernandez
