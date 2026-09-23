@@ -43,4 +43,6 @@ Esta es una frase con un footnote. [^1]
  ---
 I need to highlight these ==very important words==.
 ---
- 
+---
+---
+Modificación realizada en Windows.
