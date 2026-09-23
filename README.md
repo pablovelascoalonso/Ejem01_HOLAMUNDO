@@ -21,5 +21,6 @@ Hemos colaborado en el proyecto:
 
   [Gregorio Fernández](www.gregoriofer.com)
 
-| Versión | Modificación | Propietario de la modificación |
-|.........|..............|................................|
+| versión | modificación |
+| ----------- | ----------- |
+| 1.0 | Creación del ReadMe |
