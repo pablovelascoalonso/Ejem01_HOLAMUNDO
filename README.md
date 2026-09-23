@@ -24,3 +24,11 @@ Hemos colaborado en el proyecto:
 | versión | modificación |
 | ----------- | ----------- |
 | 1.0 | Creación del ReadMe |
+
+```
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
