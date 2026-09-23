@@ -48,5 +48,7 @@ I need to highlight these ==very important words==.
 Modificación realizada en Windows.
 
 # Creamos nuestra primera rama
+---
+Creamos una segunda rama
 
 Continuamos en el main pero no en la rama que hemos creado
