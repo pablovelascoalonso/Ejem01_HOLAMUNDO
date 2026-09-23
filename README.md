@@ -15,8 +15,11 @@ Hemos colaborado en el proyecto:
 - Lucas
 - Pablo
 
-  Ésta modificación nos sirve para aprender markdown que por ejemplo los titulos `<H1> </H1>´ los coloca con una almoadilla
+  Ésta modificación nos sirve para aprender markdown que por ejemplo los titulos `<H1> </H1>` los coloca con una almoadilla
 
   ---
 
   [Gregorio Fernández](www.gregoriofer.com)
+
+| Versión | Modificación | Propietario de la modificación |
+|.........|..............|................................|
